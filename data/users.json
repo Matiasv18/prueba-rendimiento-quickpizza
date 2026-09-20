@@ -1,0 +1,10 @@
+[
+  { "maxCaloriesPerSlice": 300, "mustBeVegetarian": true },
+  { "maxCaloriesPerSlice": 500, "mustBeVegetarian": false },
+  { "maxCaloriesPerSlice": 400, "mustBeVegetarian": true },
+  { "maxCaloriesPerSlice": 700, "mustBeVegetarian": false },
+  { "maxCaloriesPerSlice": 350, "mustBeVegetarian": true },
+  { "maxCaloriesPerSlice": 600, "mustBeVegetarian": false },
+  { "maxCaloriesPerSlice": 450, "mustBeVegetarian": true },
+  { "maxCaloriesPerSlice": 550, "mustBeVegetarian": false }
+]
