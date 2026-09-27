@@ -1,0 +1,4 @@
+momento,minuto,cpu_pct,ram_pct,red_pct
+inicio,0,54,94,2
+mitad,15,29,89,0
+final,30,13,92,0

@@ -1,0 +1,4 @@
+prueba,vus,p50_home_ms,p95_home_ms,p50_pizza_ms,p95_pizza_ms,error_pct,throughput_reqs
+carga,20,91.20,104.58,201.62,659.59,0.00,7.60
+estres,100,92.64,101.17,212.20,672.54,0.00,18.43
+resistencia,15,92.28,102.29,213.43,686.84,0.00,6.13
